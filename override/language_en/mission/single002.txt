@@ -1,8 +1,7 @@
 Image=campaign/images/pact wolfpack 5
-MissionLocation=East of Iceland, in the Norwegian Sea
-Briefing=After several uneventful days, sonar reports a lone contact.
+MissionLocation=挪威海，冰岛东部
+Briefing=1984年12月15日
+Briefing=在风平浪静的几天过后，声呐员报告了一个接触。
 Briefing=
-Briefing=<b>Primary Objectives:</b>
-Briefing=- Sink the enemy submarine.
-Briefing=
-Briefing=(1968 Version)
+Briefing=主要目标：
+Briefing=与敌方核潜艇进行一对一决斗
